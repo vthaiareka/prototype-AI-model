@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+streamlit
+sentence-transformers
+joblib
+numpy
+requests
